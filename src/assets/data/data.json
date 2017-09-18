@@ -1,0 +1,12 @@
+{
+  "users":[
+    {"id":0,"username":"admin","password":"admin","isVip":0},
+    {"id":1,"username":"韩梅梅","password":"12345","isVip":0},
+    {"id":2,"username":"张三","password":"12345","isVip":0},
+    {"id":3,"username":"刘德华","password":"12345","isVip":0},
+    {"id":4,"username":"张无忌","password":"12345","isVip":0},
+    {"id":5,"username":"赵四","password":"12345","isVip":0},
+    {"id":6,"username":"王磊","password":"12345","isVip":0},
+    {"id":7,"username":"test","password":"test","isVip":0}
+  ]
+}
